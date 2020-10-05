@@ -3,4 +3,4 @@ Interestests in Machine Learning, Reinforcement Learning and Natural Language Pr
 
 [Personal](https://julianlopezb.github.io/)     |     [Medium](https://medium.com/@julianlopezbaasch)     |     [Linkedin](https://www.linkedin.com/in/julianlopezba/)     |     [Twitter](https://twitter.com/JulianLBaasch)
 
-Stack: Python, sklearn, Keras, PyTorch, OpenCV, Matlab 
+Stack: Python, sklearn, Keras, PyTorch, OpenCV, Matlab, Flask
