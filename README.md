@@ -1,5 +1,3 @@
-### {Economist, Data Scientist, Entrepreneur}
-
 ### Data Scientist, Economist, Entrepreneur
 
 I am a hands-on, business driven, Data Scientist who loves building and delivering products based on Machine Learning. I’d love to combine my passion for technology with my software development skills to continue building data driven products.
