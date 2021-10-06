@@ -1,4 +1,6 @@
-### Data Scientist, Economist, Entrepreneur
+# Hi there 👋 
+
+## I am Julian
 
 I am a hands-on, business driven, Data Scientist who loves building and delivering products based on Machine Learning. I’d love to combine my passion for technology with my software development skills to continue building data driven products.
 
@@ -15,3 +17,7 @@ Stack (all python) =
 ```
 
 [Personal](https://julianlopezb.github.io/)     |     [Medium](https://medium.com/@julianlopezbaasch)     |     [Linkedin](https://www.linkedin.com/in/julianlopezba/)     |     [Twitter](https://twitter.com/JulianLBaasch)
+
+![Metrics](https://raw.githubusercontent.com/omBratteng/JulianLopezB/github-metrics/github-metrics.svg)
+
+<a href="https://app.daily.dev/JulianLB"><img src="https://api.daily.dev/devcards/67e08859fed748c2bd1640201bf123af.png?r=099" width="400" alt="Julian Lopez Baasch's Dev Card"/></a>
