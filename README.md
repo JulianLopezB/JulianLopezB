@@ -26,11 +26,14 @@ Skills & Interests: machine learning, nlp, computer vision, web intelligence.
 
 
 ```
-Stack (all python) =
-{'machine learning': [scikit, keras, pytorch, fastai],
+Stack (all python) = {
+
+'machine learning': [scikit, keras, pytorch, fastai],
 'nlp': [huggingface, spacy],
 'computer vision': [opencv],
 'data pipelines': [spark, beam, airflow],
 'mlops': [mlflow, kubeflow, flask],
-'web intelligence': [scrapy, bs4, sellenium]}
+'web intelligence': [scrapy, bs4, sellenium]
+
+}
 ```
