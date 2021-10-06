@@ -8,18 +8,18 @@
 <div align="left">
   
   <a href="https://app.daily.dev/JulianLB"><img src="https://api.daily.dev/devcards/67e08859fed748c2bd1640201bf123af.png?r=099" 
-      width="400"
+      width="300"
       align="right"
       alt="Julian Lopez Baasch's Dev Card"/>
 </a>
   
-  <a>
+  <p>
 I am a hands-on, business driven, Data Scientist who loves building and delivering products based on Machine Learning. I’d love to combine my passion for technology with my software development skills to continue building data driven products.
- </a>
+ </p>
   
-  <a>
+  <p>
 Skills & Interests: machine learning, nlp, computer vision, web intelligence.
-  </a>
+  </p>
 
 
 </div>
