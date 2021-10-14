@@ -15,7 +15,6 @@ I am a hands-on, business driven, Data Scientist who loves building and deliveri
 Skills & Interests: machine learning, nlp, computer vision, web intelligence.
   </p>
 
-<a align="right" href="https://app.daily.dev/JulianLB"><img src="https://api.daily.dev/devcards/67e08859fed748c2bd1640201bf123af.png?r=u9f" width="300" alt="Julian Lopez Baasch's Dev Card"/></a>
   
 </div>
 
