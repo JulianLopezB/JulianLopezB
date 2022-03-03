@@ -12,7 +12,7 @@ Data Scientist and Machine Learning Practitioner
  </p>
   
   <p>
-Skills & Interests: machine learning, nlp, computer vision, web intelligence.
+Skills & Interests: machine learning, reinforcement learning, nlp, computer vision, web intelligence.
   </p>
 
   
