@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-## I am Julian
+## I'm Julian
 
 [Personal](https://julianlopezb.github.io/)     |     [Medium](https://medium.com/@julianlopezbaasch)     |     [Linkedin](https://www.linkedin.com/in/julianlopezba/)     |     [Twitter](https://twitter.com/JulianLBaasch)
 
