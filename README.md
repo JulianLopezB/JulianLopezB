@@ -4,9 +4,6 @@
 
 [Personal](https://julianlopezb.github.io/)     |     [Medium](https://medium.com/@julianlopezbaasch)     |     [Linkedin](https://www.linkedin.com/in/julianlopezba/)     |     [Twitter](https://twitter.com/JulianLBaasch)
 
-extra_javascript:
-  https://platform.linkedin.com/badges/js/profile.js
-
 <div align="left">
   
   <p>
