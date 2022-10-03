@@ -22,10 +22,10 @@ Skills & Interests: machine learning, reinforcement learning, nlp, computer visi
 stack = {
 
 'machine learning': [scikit, keras, pytorch, fastai],
+'model versioning': [mlflow, kubeflow],
+'model deployment': [flask, fastapi],
 'nlp': [huggingface, spacy],
 'computer vision': [opencv],
-'mlops': [mlflow, kubeflow],
-'api': [flask, fastapi]
 'web intelligence': [scrapy, bs4, sellenium]
 
 }
