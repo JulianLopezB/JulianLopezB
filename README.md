@@ -25,7 +25,7 @@ stack = {
 'nlp': [huggingface, spacy],
 'computer vision': [opencv],
 'mlops': [mlflow, kubeflow],
-'api': [flask, fastapi
+'api': [flask, fastapi]
 'web intelligence': [scrapy, bs4, sellenium]
 
 }
