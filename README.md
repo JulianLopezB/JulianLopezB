@@ -7,7 +7,7 @@
 <div align="left">
   
   <p>
-Data Scientist and Machine Learning Practitioner
+Data Scientist, Machine Learning Practitioner, AI Engineer, Entrepreneur
  </p>
   
   <p>
