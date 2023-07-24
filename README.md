@@ -21,14 +21,12 @@ Skills & Interests: machine learning, reinforcement learning, nlp, computer visi
 ```
 stack = {
 
-'machine learning': [scikit, keras, pytorch, fastai],
-'model versioning': [mlflow, kubeflow],
-'model deployment': [flask, fastapi],
-'nlp': [huggingface, spacy],
-'computer vision': [opencv],
-'web intelligence': [scrapy, bs4, sellenium]
-
+'machine learning': [scikit, keras, pytorch, mlflow],
+'APIs': [flask, fastapi],
+'nlp': [huggingface, spacy, nltk],
+'computer vision': [opencv, pytorch],
+'web intelligence': [requests, scrapy, bs4, sellenium],
+'cloud': ['gcp', 'azure'],
+'web': ['react.js', 'next.js', 'javascript', 'css']
 }
-
-queue = ['node.js']
 ```
