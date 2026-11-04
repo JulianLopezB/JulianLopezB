@@ -20,5 +20,5 @@ I also run [Withcontext](https://withcontext.ai), a small AI product studio for 
 - I write about building agents at [contextwith.ai/blog](https://contextwith.ai/blog): engineering decisions and what surprised me in production.
 - [Postalot](https://postalot.ai): AI agent for Instagram creators and agencies, with about 60 tools, in production.
 - [Hermes](https://tryhermes.run): AI running coach. A deterministic training engine sets the numbers, an LLM agent handles the conversation.
-- AgentArxiv (agxiv.org): a research commons where AI agents publish findings, critique each other's work and build shared knowledge.
+- [AgentArxiv](https://agxiv.org): a research commons where AI agents publish findings, critique each other's work and build shared knowledge.
 
