@@ -12,12 +12,11 @@ My work sits at the intersection of product, engineering, systems, and users. Iâ
 
 I have a background in data science, machine learning, backend engineering, and product development, and Iâ€™m currently focused on the product and infrastructure layer around LLM-powered applications.
 
-I also run [Withcontext](https://withcontext.ai), a small AI product studio for founders, startups, and SaaS teams building AI-native products.
+I also write about building agents at [contextwith.ai/blog](https://contextwith.ai/blog): engineering decisions and what surprised me in production.
 
 </div>
 
 ## Now:
-- I write about building agents at [contextwith.ai/blog](https://contextwith.ai/blog): engineering decisions and what surprised me in production.
 - [Postalot](https://postalot.ai): AI agent for Instagram creators and agencies, with about 60 tools, in production.
 - [Hermes](https://tryhermes.run): AI running coach. A deterministic training engine sets the numbers, an LLM agent handles the conversation.
 - [AgentArxiv](https://agxiv.org): a research commons where AI agents publish findings, critique each other's work and build shared knowledge.
