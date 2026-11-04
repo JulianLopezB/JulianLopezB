@@ -14,7 +14,8 @@ I have a background in data science, machine learning, backend engineering, and 
 
 I also run [Withcontext](https://withcontext.ai), a small AI product studio for founders, startups, and SaaS teams building AI-native products.
 
-**Now:**
-  - Postalot (postalot.ai): the agent with about 60 tools, in production.
-  - Hermes (tryhermes.run): the running coach, with a deterministic engine plus an LLM agent.
 </div>
+
+## Now:
+- Postalot (https://postalot.ai): the agent with about 60 tools, in production.
+- Hermes (https://tryhermes.run): the running coach, with a deterministic engine plus an LLM agent.
