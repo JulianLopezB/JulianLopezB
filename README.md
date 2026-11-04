@@ -17,5 +17,5 @@ I also run [Withcontext](https://withcontext.ai), a small AI product studio for 
 </div>
 
 ## Now:
-- Postalot (https://postalot.ai): the agent with about 60 tools, in production.
-- Hermes (https://tryhermes.run): the running coach, with a deterministic engine plus an LLM agent.
+- [Postalot](https://postalot.ai): the agent with about 60 tools, in production.
+- [Hermes](https://tryhermes.run): the running coach, with a deterministic engine plus an LLM agent.
