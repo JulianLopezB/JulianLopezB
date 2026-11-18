@@ -4,7 +4,7 @@ I'm an AI Product Engineer. I build AI products end to end: the agent, the evals
 
 Before LLMs I worked in data science and machine learning engineering. Now I work on the product and infrastructure layer of LLM applications.
 
-I write about what I learn building agents in production at [contextwith.ai/writing](https://contextwith.ai/writing). [LinkedIn](https://www.linkedin.com/in/julianlopezba/)
+I write about what I learn building agents in production at [contextwith.ai/writing](https://contextwith.ai/blog). [LinkedIn](https://www.linkedin.com/in/julianlopezba/)
 
 ## Now
 
